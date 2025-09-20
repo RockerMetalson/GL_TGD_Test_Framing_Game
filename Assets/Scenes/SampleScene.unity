@@ -2749,6 +2749,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1234498930}
     m_Modifications:
+    - target: {fileID: 2400077334892820880, guid: 1c5ddd5a780130046b5a70d908bcf103, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5384693123605344632, guid: 1c5ddd5a780130046b5a70d908bcf103, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -2792,6 +2796,10 @@ PrefabInstance:
     - target: {fileID: 5536236103622203612, guid: 1c5ddd5a780130046b5a70d908bcf103, type: 3}
       propertyPath: m_Name
       value: FarmTile
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949863768208003159, guid: 1c5ddd5a780130046b5a70d908bcf103, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
