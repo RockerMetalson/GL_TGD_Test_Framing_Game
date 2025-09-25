@@ -17,7 +17,7 @@ A tiny farming game demo with simple loop: plow a tile -> plant a selected seed 
 
 ## Controls
 - WASD — move
-- 1 - Shovel, 2 - Sickle, 4 - Seeds, 5 - Cycle through seeds
+- 1 - Shovel, 2 - Sickle, 4 - Seeds, 5 - Cycle through seeds, 0 - None/Unequip tool
 - E — interact (plow/plant/harvest/buy/sell/pick up)
 
 
